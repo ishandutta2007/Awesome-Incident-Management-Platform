@@ -56,7 +56,7 @@ Top commercial solutions for IT/SRE operational incidents and enterprise EHS com
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source incident management, on-call alerting, status page, and AIOps repositories sorted by **GitHub Stars** (descending).
+Curated open-source incident management, on-call alerting, status page, and AIOps repositories sorted by **GitHub_Stars** (descending).
 
 | Project 📦 | Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
@@ -77,7 +77,7 @@ Contributions are highly welcome! 🌟 Follow these simple steps:
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` following the tabular layout and formatting rules.
-3. 🔗 Ensure all web links, star badges, and pricing descriptions are accurate.
+3. 🔗 Ensure all web links, Stars_Badges, and pricing descriptions are accurate.
 4. 🚀 **Submit a Pull Request** with a clear explanation of your changes.
 
 ---
