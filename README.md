@@ -68,6 +68,7 @@ Curated open-source incident management, on-call alerting, status page, and AIOp
 | **[TheHive](https://github.com/TheHive-Project/TheHive)** | [<img src="https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white" alt="TheHive Stars"/>](https://github.com/TheHive-Project/TheHive/stargazers) | Scalable 4-in-1 open-source Security Incident Response Platform (SIRP) for SOCs and security teams. |
 | **[Regen](https://github.com/FluidifyAI/Regen)** | [<img src="https://img.shields.io/github/stars/FluidifyAI/Regen?style=social&color=white" alt="Regen Stars"/>](https://github.com/FluidifyAI/Regen/stargazers) | Open-source on-call and AI incident response post-mortem platform; self-hosted alternative to PagerDuty. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [<img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/>](https://github.com/frappe/erpnext/stargazers) | Open-source ERP platform featuring customizable safety management, incident logging, and corrective action modules. |
+| **[BeaconHS](https://github.com/braedonsaunders/beaconhs)** | [<img src="https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=social&color=white" alt="BeaconHS Stars"/>](https://github.com/braedonsaunders/beaconhs/stargazers) | Open-source HSE / EHS platform for industrial construction: incidents, inspections, training, equipment, permits, and a form engine. |
 
 ---
 
